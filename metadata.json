@@ -1,0 +1,7 @@
+{
+  "name": "PolyGlot AI Translator",
+  "description": "A high-performance multi-language translation application powered by Gemini, featuring real-time streaming, language detection, and crystal-clear text-to-speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
